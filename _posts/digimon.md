@@ -3,9 +3,7 @@ layout: post
 title: Digimon Lab
 subtitle: Lab 1
 thumbnail-img: /assets/img/DigimonThumbnail.jpg
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Lab]
 comments: true
 ---
 
