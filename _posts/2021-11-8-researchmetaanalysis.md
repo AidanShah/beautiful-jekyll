@@ -46,4 +46,6 @@ Study: https://www.science.org/doi/full/10.1126/science.aal2887
 
 Lazer Lab: https://davidlazer.com/home
 
+Dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LZPEQT
+
 Image Sources: https://www.science.org/doi/pdf/10.1126/science.aal2887?casa_token=kGSfcO6Wn7oAAAAA:H-4Ur_trmkYdBqjAT-j9rhyzn0OWcYsB-aLEg5g18SFnNDBNvRvpVkWi0iX8WlAPBn-xGZm-OWjcNrI
