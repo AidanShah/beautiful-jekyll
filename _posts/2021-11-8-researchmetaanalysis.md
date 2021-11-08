@@ -18,6 +18,7 @@ I'm not going to list them all, but the general categories that these factors co
 evidence their end conclusions with a variety of graphs and statistical measures of correlation, and also test their model on elections not in their dataset. 
 Interestingly to me was that they do not mention p values anywhere in the study.
 
+
 Now let's get into the background of the study. It was authored by Ryan Kennedy, Stefan Wojcik, and David Lazer. Kennedy and Lazer are both professors of political 
 science, and Wojcik is a data scientist at twitter. The institution that ties these people to together is the Lazer Lab. The Lazer Lab is an institution started by 
 David Lazer that does politics related projects. Note: Lazer is a very cool last name and I appreciate that David Lazer named his organization Lazer Lab despite it 
@@ -32,6 +33,7 @@ of pollsters became a hot topic. The study also mentions this election more than
 especially since the project is still ongoing. This also indicates that the study was subject to publihs or perish. They may have published at this time to create 
 more publicity and get more funding.
 
+
 Finally let's discuss their data. Their dataset is public, but it is not explicitly clear where to find it. The study did have a supplementary materials section 
 where I expected to find it, but it wasn't there. Instead within a pdf in the supplementary materials section, there is a link that takes you to the dataset. On the 
 data selection side I think they were quite thorough. Obviously they could have picked more economic factors or other random variables, but I think the ones they 
@@ -41,5 +43,7 @@ Asia, but this is likely because these countries do not have direct executive el
 study. Overall, the data was fairly good.
 
 Study: https://www.science.org/doi/full/10.1126/science.aal2887
+
 Lazer Lab: https://davidlazer.com/home
+
 Image Sources: https://www.science.org/doi/pdf/10.1126/science.aal2887?casa_token=kGSfcO6Wn7oAAAAA:H-4Ur_trmkYdBqjAT-j9rhyzn0OWcYsB-aLEg5g18SFnNDBNvRvpVkWi0iX8WlAPBn-xGZm-OWjcNrI
