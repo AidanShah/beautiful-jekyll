@@ -19,7 +19,7 @@ Interestingly to me was that they do not mention p values anywhere in the study.
 
 Now let's get into the background of the study. It was authored by Ryan Kennedy, Stefan Wojcik, and David Lazer. Kennedy and Lazer are both professors of political 
 science, and Wojcik is a data scientist at twitter. The institution that ties these people together is the Lazer Lab. The Lazer Lab is an institution started by 
-David Lazer that does politics related projects. Note: Lazer is a very cool last name and I appreciate that David Lazer named his organization Lazer Lab despite it 
+David Lazer that does politics related research. Note: Lazer is a very cool last name and I appreciate that David Lazer named his organization Lazer Lab despite it 
 not having anything to do with lasers. Despite its name it isn't a particularly dramatic institution and is likely not a front for a government trying to influence 
 elections. This study is part of a project that has been running since 2012 and continues to run. The only odd thing I found was that Wojcik was listed as an author 
 of the study but not a researcher on the project. I first thought this was because he left the project, but it seems that Kennedy also left the project which left 
