@@ -3,11 +3,24 @@
 ## Review
 1. What is the difference between a sample and a population?
 
+A sample is a portion of the population used to make statements about the larger population without having survey all of them.
+
 ## Types of Studies
 1. What is the difference between an **observational** and an **experimental** study?
-2. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
-3. Why can't an observational study show causation?
-4. What reasons might a researcher have for choosing one type of study over another?
+
+In an observational study the researcher does not add any external factors while in an experimental they do.
+
+3. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
+
+Just because two trends align well doesn't mean they have any bearing on each other.
+
+5. Why can't an observational study show causation?
+
+An observational study can not show casuation because it can not control the factors so that the only difference two groups is the factor being analyzed.
+
+7. What reasons might a researcher have for choosing one type of study over another?
+
+There might be ethical or logistic concerns for choosing one over the other.
 
 ## Sample Frame
 1. What is a **sample frame**, and how is that different from a sample?
