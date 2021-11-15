@@ -24,11 +24,25 @@ There might be ethical or logistic concerns for choosing one over the other.
 
 ## Sample Frame
 1. What is a **sample frame**, and how is that different from a sample?
-2. What does **coverage bias** (also called **exclusion bias**) mean in the context of choosing a sample frame?
-3. Suppose a researcher were studying the population of all students at Horace Mann.
+
+A sample frame is the area from which the sample is chosen. Ideally this is the population but likely it is not.
+
+3. What does **coverage bias** (also called **exclusion bias**) mean in the context of choosing a sample frame?
+
+Coverage bias is when the sample frame does not accurately represent the population.
+
+5. Suppose a researcher were studying the population of all students at Horace Mann.
    1. Give an example of a sample frame that demonstrates coverage bias.
-   2. What reasons might the researcher have for choosing that sample frame?
-   3. What could the researcher do to reduce coverage bias?
+
+Freshman
+
+   3. What reasons might the researcher have for choosing that sample frame?
+
+More of them respond to surveys.
+
+   5. What could the researcher do to reduce coverage bias?
+Make sure that there are equal representation of grades in the study.
+
 
 ## Sampling Methodology
 1. What does it mean for a sample to be "good"?
