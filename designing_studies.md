@@ -46,9 +46,18 @@ Make sure that there are equal representation of grades in the study.
 
 ## Sampling Methodology
 1. What does it mean for a sample to be "good"?
-2. What is the difference between **probability** and **nonprobability** sampling?
-3. Give two examples of nonprobability sampling. What biases might these methods be prone to?
-4. Give two examples of probability sampling. What biases might these methods be prone to?
+
+A good sample is one that represents the population well and is large enough given the population.
+
+3. What is the difference between **probability** and **nonprobability** sampling?
+
+Probability sampling is when every member of the population has an equal chance of being part of the sample. In nonprobability sampling this is not true.
+
+5. Give two examples of nonprobability sampling. What biases might these methods be prone to?
+
+
+
+7. Give two examples of probability sampling. What biases might these methods be prone to?
 
 ## Practice
 Choose one of the following situations:
