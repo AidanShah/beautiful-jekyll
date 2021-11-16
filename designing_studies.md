@@ -67,7 +67,13 @@ Choose one of the following situations:
 
 Then, for your chosen situation, write a response to the following:
 1. Identify a statistical question you could ask in that situation.
-2. Identify the population you would study to answer the question. What information about the population would help answer your question?
-3. Identify a feasible sample frame, and explain your reasoning.
-4. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
-5. What biases may come up, and how would you address them?
+
+You could ask how the elevation of the berries effects the taste.
+
+3. Identify the population you would study to answer the question. What information about the population would help answer your question?
+
+
+
+5. Identify a feasible sample frame, and explain your reasoning.
+6. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
+7. What biases may come up, and how would you address them?
