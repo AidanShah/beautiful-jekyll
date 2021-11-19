@@ -56,8 +56,9 @@ Probability sampling is when every member of the population has an equal chance 
 5. Give two examples of nonprobability sampling. What biases might these methods be prone to?
 
 
-
 7. Give two examples of probability sampling. What biases might these methods be prone to?
+
+Randomly calling numbers and picking random people on the street are examples of probability sampling. These might not include groups that typically are included in your sampleframe.
 
 ## Practice
 Choose one of the following situations:
@@ -72,8 +73,16 @@ You could ask how the elevation of the berries effects the taste.
 
 3. Identify the population you would study to answer the question. What information about the population would help answer your question?
 
-
+The population would be wild blueberries in this area. 
 
 5. Identify a feasible sample frame, and explain your reasoning.
-6. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
-7. What biases may come up, and how would you address them?
+
+The sample frame would be the wild berries along this trail. This is because going off the trail would be more difficult.
+
+7. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
+
+I would sample along the trail at set elevation levels. This ensures that you would have an equal from each elevation levels.
+
+9. What biases may come up, and how would you address them?
+
+The taste might also be determined by time so I would do these weeks apart.
