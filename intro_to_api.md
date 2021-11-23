@@ -2,16 +2,33 @@
 ## Background
 ![Several clients connect to a server via HTTP](img/server_clients.png)
 1. What does **HTTP** stand for, and what does it mean in the context of the _internet_?
-2. What is the relationship between a **server** and **clients**?
-3. In the context of this diagram and APIs, what is a **URL**?
-4. In the context of this diagram and APIs, what is an **endpoint**?
+
+HyperText Transfer Protocol and it is the rules that are used to sent hypertext document.
+
+3. What is the relationship between a **server** and **clients**?
+
+A client asks for information from the server.
+
+5. In the context of this diagram and APIs, what is a **URL**?
+
+How to access the API. Tells server to direct you to a piece of information.
+
+7. In the context of this diagram and APIs, what is an **endpoint**?
+
+An endpoint is the place where the server and client interact.
 
 ## Server-Client Communication
 Let's examine an interaction between a server and a client.
 ![A client sends a GET request to a server, who provides the item after authenticating the client](img/server_client.png)
 1. How does the server know who the client is?
-2. Why does the server need a `KEY` before sending `X`?
-3. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
+
+The client provides the key and the server recognizes that key.
+
+3. Why does the server need a `KEY` before sending `X`?
+
+So that it doesn't get spammed.
+
+5. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
 
 ## Data Transfer
 ### Review
