@@ -30,6 +30,8 @@ So that it doesn't get spammed.
 
 5. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
 
+JSON object
+
 ## Data Transfer
 ### Review
 Examine the following Python dictionary.
@@ -50,12 +52,25 @@ pokemon = {
 }
 ```
 1. What does `pokemon['name']` evaluate to?
-2. What does `pokemon['types']['0']` evaluate to?
-3. Write Python code that accesses the `height`.
-4. Write Python code that accesses the `type` in slot 2.
+
+Scolipede
+
+3. What does `pokemon['types']['0']` evaluate to?
+
+That Dictionary
+
+5. Write Python code that accesses the `height`.
+
+pokemon['height']
+
+7. Write Python code that accesses the `type` in slot 2.
+
+pokemon['types']['1']['type']
 
 ### JSON
 1. What does **JSON** stand for? Why is it useful for **REST** APIs?
+
+Javascript Object Notation they are the response from REST APIs.
 
 Examine the following **Javascript object**.
 ```js
