@@ -2,7 +2,7 @@
 layout: post
 title: Animal Crossing Lab
 subtitle: Lab 2
-thumbnail-img: 
+thumbnail-img: assets/img/Animal-Crossing-Pocket-Camp.jpg
 tags: [Lab]
 comments: true
 ---
