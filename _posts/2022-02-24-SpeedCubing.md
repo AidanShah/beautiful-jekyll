@@ -15,5 +15,5 @@ The dataset we will be looking at today is of the top 1000 fastest speed cubers 
 Now that we have the dataset completely clean, lets look at the summary statistics for the dataset as a whole. 
 
 
-![Summary](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Summary](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/describeall.png)
 
