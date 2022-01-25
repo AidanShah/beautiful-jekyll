@@ -3,6 +3,8 @@ layout: post
 title: Speedcubing Averages Analysis
 subtitle: Lab 3
 thumbnail-img: /assets/img/72872.png
+gh-repo: AidanShah/beautiful-jekyll
+gh-badge: [star, fork, follow]
 tags: [Lab]
 comments: true
 ---
