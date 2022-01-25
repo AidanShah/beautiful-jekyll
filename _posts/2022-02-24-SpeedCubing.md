@@ -2,6 +2,7 @@
 layout: post
 title: Speedcubing Averages Analysis
 subtitle: Top 1000 Averages
+thumbnail-img: 
 tags: [Lab]
 comments: true
 ---
