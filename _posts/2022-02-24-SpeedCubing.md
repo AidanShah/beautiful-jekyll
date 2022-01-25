@@ -31,6 +31,7 @@ These summary statistics look very similar to the original dataset's with the me
 
 ![Countplot](/assets/img/countrycount.png)
 ![Histogram](/assets/img/topcountriestimehist.png)
+![Histogram](/assets/img/alltimehist.jpg)
 
 
 The US is clearly in the head with China trailing in a distinctive second. The rest of the countries in the top 6 have about the same number of averages with Poland slightly ahead. The distrubtion looks fairly expected: there are many 9s and 8s and few 5s. Next I will show the summary statistics for these countries. Feel free to not read them deeply as I will cover the important points after, but they will be there if you want to look at them.
