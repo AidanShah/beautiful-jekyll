@@ -16,7 +16,7 @@ The dataset we will be looking at today is of the top 1000 fastest speed cubers 
 
 Now that we have the dataset completely clean, lets look at the summary statistics for the dataset as a whole. 
 
-![Summary](/assets/img/describetotal.png)
+![Summary][{{site.url}}/assets/img/describetotal.png]
 
 We can see some cool statistics, but this doesn't actually tell us anything too interesting besides the fact that year is skewed towards later years. The mean is also around 8 seconds which is very fast. Let's look at violin plots by country to make some more sense of this data.
 
