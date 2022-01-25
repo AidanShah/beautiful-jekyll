@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speedcubing Averages Analysis
-subtitle: Top 1000 Averages
+subtitle: Lab 3
 thumbnail-img: 
 tags: [Lab]
 comments: true
@@ -48,3 +48,5 @@ The mean of the times is fairly consistent with the US leading at 8.09 and The P
 This plot exposes something very important. We can see that cubers have been becoming progressively faster up until 2020 where suddenly there are less averages in the top 1000. The factor that we have not been considering so far is the effect of COVID. For much of 2020 and 2021 all competitions were canceled due to COVID. However, when they came back they did not come back equally everywhere. The US has had a reduced number due to high levels of COVID while China has had many competitions. This may be the reason behind the China vs The Philippines year discrepancy. China has had many competitions while the Philippines has not had any. 
 
 In conclusion, the US has the fastest cubers with China in second. It is possible that China's competitors are quickly becoming a more influential portion of the cubing community, but this might be caused by having many competitions while other areas do not. Finally average times are getting faster over the year with the fastest average in this dataset coming in 2021. In fact, since the creation of this dataset, the world record average has been broken twice going from 5.48 to 5.09.
+
+Image Sources: https://www.speedsolving.com/
