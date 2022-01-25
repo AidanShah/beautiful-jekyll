@@ -25,9 +25,11 @@ Aaaaaaaah! This graph is less than useful. It doesn't tell us anything of note a
 ![Summary](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/describeall.png)
 ![Violins](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/violinplottopcountries.png)
 
-These summary statistics look very similar to the original dataset's with the mean being slightly lower. We can also see through the violin plots that most of the averages are clustered in the 8-9 second range, but each country has a couple 5s or low 6s. Interestingly these 6 countries make up about half of the averages of the top 1000. Next let's look at the number of cubers, in the top 1000, that each country has.
+These summary statistics look very similar to the original dataset's with the mean being slightly lower. We can also see through the violin plots that most of the averages are clustered in the 8-9 second range, but each country has a couple 5s or low 6s. Interestingly these 6 countries make up about half of the averages of the top 1000. Next let's look at the number of cubers, in the top 1000, that each country has. Let's also look at the distribution of times.
 
 ![Countplot](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/countrycount.png)
+![Histogram](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/countrycount.png)
+
 
 The US is clearly in the head with China trailing in a distinctive second. The rest of the countries in the top 6 have about the same number of averages with Poland slightly ahead. Next I will show the summary statistics for these countries. Feel free to not read them deeply as I will cover the important points after, but they will be there if you want to look at them.
 
@@ -44,7 +46,4 @@ The mean of the times is fairly consistent with the US leading at 8.09 and The P
 
 This plot exposes something very important. We can see that cubers have been becoming progressively faster up until 2020 where suddenly there are less averages in the top 1000. The factor that we have not been considering so far is the effect of COVID. For much of 2020 and 2021 all competitions were canceled due to COVID. However, when they came back they did not come back equally everywhere. The US has had a reduced number due to high levels of COVID while China has had many competitions. This may be the reason behind the China vs The Philippines year discrepancy. China has had many competitions while the Philippines has not had any. 
 
-In conclusion, the US has the fastest cubers with China in second. It is possible that China's competitors are quickly becoming a more influential portion of the cubing community, but this might be caused by having many competitions while other areas do not. Finally average times are getting faster over the year with the fastest average in this dataset coming in 2021.
-
-
-
+In conclusion, the US has the fastest cubers with China in second. It is possible that China's competitors are quickly becoming a more influential portion of the cubing community, but this might be caused by having many competitions while other areas do not. Finally average times are getting faster over the year with the fastest average in this dataset coming in 2021. In fact, since the creation of this dataset, the world record average has been broken twice going from 5.48 to 5.09.
