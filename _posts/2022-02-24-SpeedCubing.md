@@ -24,7 +24,7 @@ We can see some cool statistics, but this doesn't actually tell us anything too 
 ![Violin](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/violinbad.png)
 Aaaaaaaah! This graph is less than useful. It doesn't tell us anything of note and takes up a massive amount of space. This image is just a screenshot and in the real graph, the key goes on and on. So instead lets limit the countries to the 6 with the most number of people on this list. This comes out to the United States, Canada, The Philippines, Australia, China, and Poland not in any particular order. Now let's take a look at those summary statistics and violin plots again.
 
-![Summary](/assets/img/describetotal.png)
+![Summary](/assets/img/describeall.png)
 ![Violins](/assets/img/violinplottopcountries.png)
 
 These summary statistics look very similar to the original dataset's with the mean being slightly lower. We can also see through the violin plots that most of the averages are clustered in the 8-9 second range, but each country has a couple 5s or low 6s. Interestingly these 6 countries make up about half of the averages of the top 1000. Next let's look at the number of cubers, in the top 1000, that each country has. Let's also look at the distribution of times.
