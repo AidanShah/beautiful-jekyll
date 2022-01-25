@@ -2,7 +2,7 @@
 layout: post
 title: Speedcubing Averages Analysis
 subtitle: Lab 3
-thumbnail-img: 
+thumbnail-img: https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/72872.png
 tags: [Lab]
 comments: true
 ---
