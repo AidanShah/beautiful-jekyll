@@ -6,7 +6,7 @@ tags: [Lab]
 comments: true
 ---
 
-##Speed Cubing Averages Analysis##
+**Speed Cubing Averages Analysis**
 
 For the third lab I wanted to analyze a dataset related to speedcubing. First what is speedcubing? Speedcubing is a competitive "sport" where poeple try to solve a Rubik's Cube as fast as possible. In these competitions you do 5 sovles. Your average, what determines the rankings of the competition, is calculated by dropping the best and worst solve and averaging the middle solves. Your best average is commonly seen as the most important measure of your skill level. 
 
@@ -28,10 +28,10 @@ Aaaaaaaah! This graph is less than useful. It doesn't tell us anything of note a
 These summary statistics look very similar to the original dataset's with the mean being slightly lower. We can also see through the violin plots that most of the averages are clustered in the 8-9 second range, but each country has a couple 5s or low 6s. Interestingly these 6 countries make up about half of the averages of the top 1000. Next let's look at the number of cubers, in the top 1000, that each country has. Let's also look at the distribution of times.
 
 ![Countplot](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/countrycount.png)
-![Histogram](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/countrycount.png)
+![Histogram](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/topcountriestimehist.png)
 
 
-The US is clearly in the head with China trailing in a distinctive second. The rest of the countries in the top 6 have about the same number of averages with Poland slightly ahead. Next I will show the summary statistics for these countries. Feel free to not read them deeply as I will cover the important points after, but they will be there if you want to look at them.
+The US is clearly in the head with China trailing in a distinctive second. The rest of the countries in the top 6 have about the same number of averages with Poland slightly ahead. The distrubtion looks fairly expected: there are many 9s and 8s and few 5s. Next I will show the summary statistics for these countries. Feel free to not read them deeply as I will cover the important points after, but they will be there if you want to look at them.
 
 ![Describe](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/americadescribe.png)
 ![Describe](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/chinadescribe.png)
