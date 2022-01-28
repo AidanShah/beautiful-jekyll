@@ -50,5 +50,3 @@ This plot exposes something very important. We can see that cubers have been bec
 In conclusion, the US has the fastest cubers with China in second. It is possible that China's competitors are quickly becoming a more influential portion of the cubing community, but this might be caused by having many competitions while other areas do not. Finally average times are getting faster over the year with the fastest average in this dataset coming in 2021. In fact, since the creation of this dataset, the world record average has been broken twice going from 5.48 to 5.09.
 
 Image Sources: https://www.speedsolving.com/
-
-Test1
