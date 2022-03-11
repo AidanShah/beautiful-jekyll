@@ -37,7 +37,7 @@ The results of this are interesting. There does not seem to be a consistent tren
 
 
 While there is a general upwards trend, the data is too eratic to say that power creep exists for any generation but generation 8. So just to make sure, I checked 6 of the last 9 years (the 3 years I didn't include had rulesets that limited the number of non new generation pokemon so they were excluded).
-
+![hist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
 
 With this new visualization, the effects of power creep seem to exist. This year's data looks like an outlier compared to clear data that shows the existance of power creep. 
 
