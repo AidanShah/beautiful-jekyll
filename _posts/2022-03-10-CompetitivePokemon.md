@@ -33,8 +33,7 @@ The general number of pokemon is the same for half of the generations, but there
 
 Now let's get to the interesting things. First let's graph the usage percentage against rank again, but this time only use the top 50 pokemon and separate the generations by color. By clicking on the legend on the side, the different generations will be highlighted.
 
-<!DOCTYPE html>
-<html>
+
 <head>
 <style>
 .error {
@@ -60,8 +59,7 @@ vegaEmbed("#vis", spec, embedOpt)
 })(vegaEmbed);
 
 </script>
-</body>
-</html>
+
 
 The results of this are interesting. There does not seem to be a consistent trend, but each generation is different. Generation 1 has a lot of mid ranked pokemon, 3 has 2 highly used and 2 mid ranged, 5 is spread evenly, and 6 is barely even there. Generation 8 is definitely dominating, having many of the top 10 and some mid ranged. This result seems to suggest that power creep doesn't exist for any generation but generation 8. This next graph showing the number of times a pokemon from each generation shows a similar result.
 
