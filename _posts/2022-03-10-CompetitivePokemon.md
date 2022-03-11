@@ -27,7 +27,7 @@ From this graph, we notice something interesting. First, the pokemon are not dis
 
 ![hist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
 
-The general number of pokemon is the same for halg of the generations, but there is a dip in generations 2,3,4, and 6. 
+The general number of pokemon is the same for half of the generations, but there is a dip in generations 2,3,4, and 6. This means that are usage numbers hopefully will be more affected by the quality of pokemon rather than the quantity.
 
 **Analysis**
 
