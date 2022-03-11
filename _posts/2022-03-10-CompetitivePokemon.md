@@ -22,8 +22,10 @@ Power creep is the idea that each Pokemon generation that comes out introduces m
 Let's look at our data. In our dataset we have all pokemon that were used on the Pokemon Showdown battle simulator in February 2022. I chose the most recent month because people have found which pokemon are good so the usage rates are a more accurate representation of how good the pokemon are. The reason I am using usage rates rather than the pokemon's statistics is because abilities, typing, and moves contribute to the power of a pokemon. The dataset includes the pokemon's name, generation, image, usage percentage, and raw number of uses. Let's first look at usage graphed against rank to see the shape of our data.
 
 
+
 From this graph, we notice something interesting. First, the pokemon are not distributed normally rather there are a couple pokemon that are used extensively while the rest are used very sparsely. If usage does happen to be correlated with generation, it would seem like the first theory of specific pokemon being more powerful than the pokemon in older generations would be true. If you haven't already I recommend mousing over each data point to see a picture, the name, and the generation of pokemon. Next let's look at the distribution of the generations.
 
+![hist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
 
 The general number of pokemon is the same for halg of the generations, but there is a dip in generations 2,3,4, and 6. 
 
@@ -32,12 +34,14 @@ The general number of pokemon is the same for halg of the generations, but there
 Now let's get to the interesting things. First let's graph the usage percentage against rank again, but this time only use the top 50 pokemon and separate the generations by color. By clicking on the legend on the side, the different generations will be highlighted.
 
 
+
 The results of this are interesting. There does not seem to be a consistent trend, but each generation is different. Generation 1 has a lot of mid ranked pokemon, 3 has 2 highly used and 2 mid ranged, 5 is spread evenly, and 6 is barely even there. Generation 8 is definitely dominating, having many of the top 10 and some mid ranged. This result seems to suggest that power creep doesn't exist for any generation but generation 8. This next graph showing the number of times a pokemon from each generation shows a similar result.
 
 
 
 While there is a general upwards trend, the data is too eratic to say that power creep exists for any generation but generation 8. So just to make sure, I checked 6 of the last 9 years (the 3 years I didn't include had rulesets that limited the number of non new generation pokemon so they were excluded).
-![hist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
+
+
 
 With this new visualization, the effects of power creep seem to exist. This year's data looks like an outlier compared to clear data that shows the existance of power creep. 
 
