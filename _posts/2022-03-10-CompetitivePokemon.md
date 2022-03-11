@@ -25,7 +25,7 @@ Let's look at our data. In our dataset we have all pokemon that were used on the
 
 From this graph, we notice something interesting. First, the pokemon are not distributed normally rather there are a couple pokemon that are used extensively while the rest are used very sparsely. If usage does happen to be correlated with generation, it would seem like the first theory of specific pokemon being more powerful than the pokemon in older generations would be true. If you haven't already I recommend mousing over each data point to see a picture, the name, and the generation of pokemon. Next let's look at the distribution of the generations.
 
-![hist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
+![gendist](https://github.com/AidanShah/beautiful-jekyll/blob/master/assets/img/pokehist.png?raw=true)
 
 The general number of pokemon is the same for half of the generations, but there is a dip in generations 2,3,4, and 6. This means that are usage numbers hopefully will be more affected by the quality of pokemon rather than the quantity.
 
@@ -41,7 +41,7 @@ The results of this are interesting. There does not seem to be a consistent tren
 
 While there is a general upwards trend, the data is too eratic to say that power creep exists for any generation but generation 8. So just to make sure, I checked 6 of the last 9 years (the 3 years I didn't include had rulesets that limited the number of non new generation pokemon so they were excluded).
 
-
+![gif](https://media.giphy.com/media/YASHIhsC4SM7VHW13b/giphy.gif)
 
 With this new visualization, the effects of power creep seem to exist. This year's data looks like an outlier compared to clear data that shows the existance of power creep. 
 
